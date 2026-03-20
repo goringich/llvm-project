@@ -131,6 +131,7 @@ if(CLANG_BUILD_EXAMPLES AND CLANG_PLUGIN_SUPPORT)
     Attribute
     AnnotateFunctions
     CallSuperAttr
+    MaybeUnused
     PluginsOrder
     PrintFunctionNames
     LLVMPrintFunctionNames
